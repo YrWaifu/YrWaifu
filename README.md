@@ -1,6 +1,8 @@
 ### Titkova Olga 
-Go junior+ developer. 
+Go junior+ developer.
+
 MAI Applied Mathematics and Informatics bachelor's degree
+
 1+ year on Go
 <!--
 **YrWaifu/YrWaifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
